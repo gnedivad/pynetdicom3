@@ -188,3 +188,5 @@ Examples
             status = assoc.send_c_store(dataset)
 
             assoc.release()
+
+- A minor addition.
